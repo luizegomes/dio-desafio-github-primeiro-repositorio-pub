@@ -1,4 +1,4 @@
-# Desaio do projeto sobre Git/GitHub da DIO
+# Desafio do projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio de Projeto
 
 Para Criar esse repositório do GitHub os passos foram:
