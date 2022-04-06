@@ -14,6 +14,13 @@ Repositório criado para o Desafio de Projeto
 * digitar *cd e nome do repositorio* dentro do repositorio.
 * estará trabalhando dentro.
 * para verificar *git status*.
-* 
+
+**Para incluir pasta do servidor local para o GitHub**:
+* *git add .*
+* *git status*
+* *git commit -m "Inclusão das anotações o curso de Git/GitHub"*
+* *git status*
+* *git push origin main*, dessa forma estará enviando todos os commit locais para a nuvem
+
 ## Links Úteis
 [Sintaxe Básica  Markdown](https://www.markdownguide.org/basic-syntax/)
